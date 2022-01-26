@@ -12,8 +12,8 @@ For scraping script use simple gnu utils like sed, awk, paste, cut.
 ## Requirements
 
 * [peerflix](https://github.com/mafintosh/peerflix) - A tool to stream torrent. `sudo npm install peerflix -g`
-* [rofi](https://github.com/davatorium/rofi)
-* [vlc](https://www.videolan.org/vlc/)
+* [rofi](https://github.com/davatorium/rofi) - Rofi generates the menus.
+* [vlc](https://www.videolan.org/vlc/) - VLC is the media player.
 
 ## Installation
 
